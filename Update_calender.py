@@ -154,10 +154,10 @@ def convert_to_iso(date_str):
 
 
 # Skyward login credentials
-username = 's125307'
-password = 'Terraria1'
+username = 'Username'
+password = 'Password'
 login_url = 'https://skyward.iscorp.com/LakeTravisTXStuSTS/Session/Signin?area=Calendar&controller=Calendar&action=StudentAccess&tab=General'
-calendar_url = 'https://skyward.iscorp.com/LakeTravisTXStu/Calendar/Calendar/StudentAccess?w=66d97d7470c84f6e9a3b60be798c97d2&p=13f320ae77a94c62834f4eb55f5fb09e'
+calendar_url = 'CalenderUrl'
 
 # Notion token and page ID
 notion_token = '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'
