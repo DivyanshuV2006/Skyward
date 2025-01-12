@@ -160,8 +160,8 @@ login_url = 'https://skyward.iscorp.com/LakeTravisTXStuSTS/Session/Signin?area=C
 calendar_url = 'CalenderUrl'
 
 # Notion token and page ID
-notion_token = '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'
-notion_database_id = '179cee4f7f7280e6a372f4bee94f266e'
+notion_token = 'Notion Token'
+notion_database_id = 'DataBase ID'
 
 
 
